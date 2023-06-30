@@ -1,5 +1,5 @@
 #include <stdio.h>
 int mani()
 {
-    printf("LOL!\r\n");
+    printf("LOL FUN!\r\n");
 }
